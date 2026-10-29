@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474404903897",
+    "project_id": "alarmaiot-41bb1",
+    "storage_bucket": "alarmaiot-41bb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474404903897:android:11750c17d91dc92ae797c8",
+        "android_client_info": {
+          "package_name": "com.example.alarmaiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_gyBeq60czge8snn3-PQxtj7_inIue_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
